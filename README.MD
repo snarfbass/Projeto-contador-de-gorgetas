@@ -1,0 +1,1 @@
+Projeto contador de gorgetas com html, css e javascript.
